@@ -3,15 +3,15 @@
 // сообщение с приветствием пользователя по имени.
 // Проверить работоспособность функции.
 
-function printname() {
+// function printname() {
 
-    alert(`Привет, ${username}`);
-}
-let username = prompt('Введите имя');
-printname();
-
-// function sayHello(userName) {
-//     console.log(`Привет, ${userName}`);
+//     alert(`Привет, ${username}`);
 // }
-// const userName = prompt("Введите имя");
-// sayHello(userName);
+// let username = prompt('Введите имя');
+// printname();
+
+function sayHello(userName) {
+    console.log(`Привет, ${userName}`);
+}
+const userName = prompt("Введите имя");
+sayHello(userName);
