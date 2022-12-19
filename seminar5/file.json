@@ -1,0 +1,19 @@
+{ "date":[
+    {
+        "name": "apple",
+        "weight": 1000,
+        "group": "fruits",
+        "price": 150,
+        "warehouse": 1
+    },
+    {
+        "name": "potatos",
+        "weight": 5000,
+        "group": "vegetables",
+        "price": 320,
+        "warehouse": 2
+    }
+],
+    "count":2,
+    "city": "Rostov"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <firstname>Иван</firstname>
+        <last_name>Иванов</last_name>
+        <age>37</age>
+        <hobbies>
+            <hobby>рыбалка</hobby>
+            <hobby>охота</hobby>
+            <hobby>футбол</hobby>
+        </hobbies>
+        <status>да</status>
+        <childrens>
+            <children>Мария</children>
+            <children>Николай</children>
+        </childrens>
+    </person>
+    <person>
+        <firstname>Ольга</firstname>
+        <last_name>Фролова</last_name>
+        <age>37</age>
+        <hobbies>
+            <hobby>Путешествия</hobby>
+            <hobby>вышивание</hobby>
+        </hobbies>
+        <status>нет</status>
+        <children></children>
+    </person>
+</people>
